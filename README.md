@@ -15,8 +15,8 @@ Transformo necessidades em soluções digitais práticas: sistemas web, automaç
 
 | Projeto | O que demonstra |
 |---|---|
-| [painel-pedidos](https://github.com/gut-O/painel-pedidos) | Dashboard web responsivo |
-| [api-catalogo](https://github.com/gut-O/api-catalogo) | API e organização de dados |
-| [triagem-atendimento](https://github.com/gut-O/triagem-atendimento) | Automação de triagem |
+| [PedidoPronto](https://gut-o.github.io/painel-pedidos/) | Pedidos, produção e prazo em uma visão |
+| [CatálogoFlow](https://gut-o.github.io/api-catalogo/) | Catálogo que prepara o pedido para atendimento |
+| [AtendeFluxo](https://gut-o.github.io/triagem-atendimento/) | Fila inteligente para organizar conversas |
 
 Todos os projetos usam dados fictícios e são demonstrações autorais.
