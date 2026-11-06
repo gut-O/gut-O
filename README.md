@@ -1,6 +1,6 @@
 # Antonio Augusto Marchezan
 
-Profissional generalista de tecnologia.
+Engenheiro de software com 5 anos de experiência, generalista em sistemas, automações, integrações e IA aplicada.
 
 Transformo necessidades em soluções digitais práticas: sistemas web, automações, integrações e melhorias de processos.
 
@@ -10,6 +10,7 @@ Transformo necessidades em soluções digitais práticas: sistemas web, automaç
 - APIs e integrações simples de entender e executar
 - Interfaces web responsivas
 - Automações para reduzir tarefas repetitivas
+- Agentes de IA, RAG e integrações por MCP
 
 ## Projetos em destaque
 
