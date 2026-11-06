@@ -1,53 +1,59 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
+  <img alt="Augusto — produtos que resolvem o trabalho de verdade" src="assets/cabecalho-claro.svg" width="100%">
+</picture>
 
-# Augusto · Software Engineer
+<p>
+  <a href="https://gut-o.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botao-portfolio.svg"><img alt="Explorar portfólio" src="assets/botao-portfolio.svg" height="54"></picture></a>&nbsp;
+  <a href="https://www.99freelas.com.br/user/gutomarchezan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botao-99freelas.svg"><img alt="Contratar no 99Freelas" src="assets/botao-99freelas.svg" height="54"></picture></a>
+</p>
 
-### Sistemas, automações, integrações e experiências digitais que fazem a operação andar.
+## O que eu resolvo
 
-[Portfólio](https://gut-o.github.io/) · [Softwares](https://gut-o.github.io/trabalhos/) · [Landing pages](https://gut-o.github.io/landings/)
+Sou engenheiro de software generalista. Entro no problema, desenho um fluxo claro e construo a experiência necessária para a operação funcionar melhor — sistema interno, integração, automação, API ou página comercial.
 
-</div>
-
----
-
-Sou engenheiro de software generalista, com atuação de ponta a ponta: entendo o problema, organizo o fluxo e transformo a ideia em uma experiência digital clara, útil e sustentável.
-
-Construo sistemas web, produtos internos, APIs, automações, integrações e interfaces comerciais. A tecnologia entra para reduzir atrito no trabalho real — não para adicionar mais uma tela ao processo.
-
-## O que eu construo
-
-| Frente | Quando faz sentido |
+| Quando o problema é... | Eu construo... |
 | --- | --- |
-| **Produtos internos** | Processos espalhados em planilhas, mensagens e controles manuais. |
-| **APIs e integrações** | Sistemas que precisam trocar dados, eliminar retrabalho e ter uma fonte confiável. |
-| **Automação e IA aplicada** | Rotinas repetitivas, leitura de documentos, classificação e apoio à decisão. |
-| **Landing pages** | Serviços e negócios que precisam comunicar valor e transformar interesse em contato. |
+| Controle espalhado entre planilhas, conversa e retrabalho | **Produtos internos** para compra, atendimento, financeiro e operação. |
+| Dados que não conversam entre ferramentas | **APIs e integrações** com regras, histórico e menos trabalho manual. |
+| Rotinas repetitivas que consomem a equipe | **Automações e IA aplicada** com validação e rastreabilidade. |
+| Uma oferta boa que ainda não se explica sozinha | **Landing pages** que organizam posicionamento e próxima ação. |
 
-## Projetos em destaque
+## Produtos em destaque
 
-| Produto | Contexto | Explore |
-| --- | --- | --- |
-| **Vértice** | Compras B2B com catálogo, grade, listas e acompanhamento de pedidos. | [Abrir produto](https://gut-o.github.io/trabalhos/vendasimples/) |
-| **Traço** | Gestão de obras com cronograma, medições, pendências e base documental. | [Abrir produto](https://gut-o.github.io/trabalhos/obraflow/) |
-| **Acordo** | Operação comercial para conduzir proposta, versão, aprovação e condições. | [Abrir produto](https://gut-o.github.io/trabalhos/propostaflow/) |
-| **Entrelinhas** | Central de atendimento por fila, canal, prioridade e responsável. | [Abrir produto](https://gut-o.github.io/trabalhos/triagem-atendimento/) |
-| **Clareia** | Visão financeira com lançamentos, cobranças, fornecedores e relatórios. | [Abrir produto](https://gut-o.github.io/trabalhos/fluxo-caixa/) |
-| **Léx** | Landing page institucional para serviços profissionais. | [Abrir página](https://gut-o.github.io/landings/lex-advocacia/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gut-o.github.io/trabalhos/vendasimples/"><img src="assets/card-vertice.svg" alt="Vértice — central de compras B2B" width="100%"></a>
+      <p><a href="https://gut-o.github.io/trabalhos/vendasimples/"><b>Vértice</b></a><br>Compras B2B com catálogo, pedido, lista salva e acompanhamento.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gut-o.github.io/trabalhos/obraflow/"><img src="assets/card-traco.svg" alt="Traço — gestão de obras" width="100%"></a>
+      <p><a href="https://gut-o.github.io/trabalhos/obraflow/"><b>Traço</b></a><br>Obra, cronograma, medições, pendências e documentos no mesmo fluxo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gut-o.github.io/trabalhos/propostaflow/"><img src="assets/card-acordo.svg" alt="Acordo — operação comercial" width="100%"></a>
+      <p><a href="https://gut-o.github.io/trabalhos/propostaflow/"><b>Acordo</b></a><br>Propostas, clientes, versões, aprovação e condições comerciais.</p>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3>Mais produtos</h3>
+      <p><a href="https://gut-o.github.io/trabalhos/triagem-atendimento/"><b>Entrelinhas</b></a> · atendimento por fila e canal</p>
+      <p><a href="https://gut-o.github.io/trabalhos/fluxo-caixa/"><b>Clareia</b></a> · financeiro, cobranças e fornecedores</p>
+      <p><a href="https://gut-o.github.io/trabalhos/agendaflow/"><b>Ritmo</b></a> · agenda e reservas</p>
+      <p><a href="https://gut-o.github.io/landings/"><b>Landing pages</b></a> · páginas comerciais por segmento</p>
+    </td>
+  </tr>
+</table>
 
-## Como eu penso um produto
-
-`Contexto → fluxo → primeira versão útil → validação → evolução`
-
-Começo pelo que hoje consome tempo, gera ruído ou depende de controle manual. A interface é consequência do fluxo; o objetivo é deixar o trabalho mais fácil de executar e mais simples de acompanhar.
-
-## Stack e práticas
+## Stack e prática
 
 `Python` · `FastAPI` · `TypeScript` · `JavaScript` · `React` · `C#/.NET` · `SQL` · `APIs REST` · `Docker` · `AWS` · `GCP` · `testes` · `observabilidade` · `LLMs` · `RAG` · `MCP`
 
----
+<br>
 
-<div align="center">
-
-**Explore o [portfólio completo](https://gut-o.github.io/) para ver os produtos em funcionamento.**
-
-</div>
+<p align="center">
+  <b>Veja os produtos funcionando no <a href="https://gut-o.github.io/">portfólio</a> ou me encontre no <a href="https://www.99freelas.com.br/user/gutomarchezan">99Freelas</a>.</b>
+</p>

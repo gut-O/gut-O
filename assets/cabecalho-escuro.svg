@@ -1,0 +1,13 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="360" rx="18" fill="#101713"/>
+<path d="M0 274C144 218 212 332 378 270C517 218 554 126 706 169C846 209 853 310 1005 267C1080 246 1138 197 1200 209V360H0V274Z" fill="#1A3228"/>
+<path d="M0 305C129 257 237 334 375 299C551 253 600 186 749 220C887 252 976 331 1200 253V360H0V305Z" fill="#244837"/>
+<circle cx="1034" cy="102" r="122" stroke="#D9F568" stroke-width="28" opacity=".92"/>
+<circle cx="1034" cy="102" r="68" stroke="#F0825E" stroke-width="2" opacity=".9"/>
+<rect x="70" y="64" width="94" height="30" rx="15" fill="#D9F568"/>
+<text x="87" y="84" fill="#142219" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">GUT-O</text>
+<text x="70" y="161" fill="#F4F6EE" font-family="Georgia, serif" font-size="59" font-weight="700">Produtos que resolvem</text>
+<text x="70" y="221" fill="#F4F6EE" font-family="Georgia, serif" font-size="59" font-weight="700">o trabalho de verdade.</text>
+<text x="73" y="271" fill="#B9C9BE" font-family="Arial, sans-serif" font-size="18">Sistemas · Automações · Integrações · Experiências digitais</text>
+<rect x="70" y="305" width="292" height="4" rx="2" fill="#F0825E"/>
+</svg>
