@@ -1,23 +1,53 @@
-# Antonio Augusto Marchezan
+<div align="center">
 
-Engenheiro de software com 5 anos de experiência, generalista em sistemas, automações, integrações e IA aplicada.
+# Augusto · Software Engineer
 
-Transformo necessidades em soluções digitais práticas: sistemas web, automações, integrações e melhorias de processos.
+### Sistemas, automações, integrações e experiências digitais que fazem a operação andar.
 
-## O que você encontra aqui
+[Portfólio](https://gut-o.github.io/) · [Softwares](https://gut-o.github.io/trabalhos/) · [Landing pages](https://gut-o.github.io/landings/)
 
-- Projetos demonstrativos com foco em problemas reais de negócio
-- APIs e integrações simples de entender e executar
-- Interfaces web responsivas
-- Automações para reduzir tarefas repetitivas
-- Agentes de IA, RAG e integrações por MCP
+</div>
+
+---
+
+Sou engenheiro de software generalista, com atuação de ponta a ponta: entendo o problema, organizo o fluxo e transformo a ideia em uma experiência digital clara, útil e sustentável.
+
+Construo sistemas web, produtos internos, APIs, automações, integrações e interfaces comerciais. A tecnologia entra para reduzir atrito no trabalho real — não para adicionar mais uma tela ao processo.
+
+## O que eu construo
+
+| Frente | Quando faz sentido |
+| --- | --- |
+| **Produtos internos** | Processos espalhados em planilhas, mensagens e controles manuais. |
+| **APIs e integrações** | Sistemas que precisam trocar dados, eliminar retrabalho e ter uma fonte confiável. |
+| **Automação e IA aplicada** | Rotinas repetitivas, leitura de documentos, classificação e apoio à decisão. |
+| **Landing pages** | Serviços e negócios que precisam comunicar valor e transformar interesse em contato. |
 
 ## Projetos em destaque
 
-| Projeto | O que demonstra |
-|---|---|
-| [PedidoPronto](https://gut-o.github.io/painel-pedidos/) | Pedidos, produção e prazo em uma visão |
-| [CatálogoFlow](https://gut-o.github.io/api-catalogo/) | Catálogo que prepara o pedido para atendimento |
-| [AtendeFluxo](https://gut-o.github.io/triagem-atendimento/) | Fila inteligente para organizar conversas |
+| Produto | Contexto | Explore |
+| --- | --- | --- |
+| **Vértice** | Compras B2B com catálogo, grade, listas e acompanhamento de pedidos. | [Abrir produto](https://gut-o.github.io/trabalhos/vendasimples/) |
+| **Traço** | Gestão de obras com cronograma, medições, pendências e base documental. | [Abrir produto](https://gut-o.github.io/trabalhos/obraflow/) |
+| **Acordo** | Operação comercial para conduzir proposta, versão, aprovação e condições. | [Abrir produto](https://gut-o.github.io/trabalhos/propostaflow/) |
+| **Entrelinhas** | Central de atendimento por fila, canal, prioridade e responsável. | [Abrir produto](https://gut-o.github.io/trabalhos/triagem-atendimento/) |
+| **Clareia** | Visão financeira com lançamentos, cobranças, fornecedores e relatórios. | [Abrir produto](https://gut-o.github.io/trabalhos/fluxo-caixa/) |
+| **Léx** | Landing page institucional para serviços profissionais. | [Abrir página](https://gut-o.github.io/landings/lex-advocacia/) |
 
-Todos os projetos usam dados fictícios e são demonstrações autorais.
+## Como eu penso um produto
+
+`Contexto → fluxo → primeira versão útil → validação → evolução`
+
+Começo pelo que hoje consome tempo, gera ruído ou depende de controle manual. A interface é consequência do fluxo; o objetivo é deixar o trabalho mais fácil de executar e mais simples de acompanhar.
+
+## Stack e práticas
+
+`Python` · `FastAPI` · `TypeScript` · `JavaScript` · `React` · `C#/.NET` · `SQL` · `APIs REST` · `Docker` · `AWS` · `GCP` · `testes` · `observabilidade` · `LLMs` · `RAG` · `MCP`
+
+---
+
+<div align="center">
+
+**Explore o [portfólio completo](https://gut-o.github.io/) para ver os produtos em funcionamento.**
+
+</div>
